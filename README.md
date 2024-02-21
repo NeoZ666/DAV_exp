@@ -1,4 +1,5 @@
-### DAV_Lab_ADL601 Harsh Jain, D11AD, 13
+### DAV_Lab_ADL601 Harsh Jain, D11AD, 25
+
 
 ## Lab Experiments
 | No | Name of Experiment | LO's |
