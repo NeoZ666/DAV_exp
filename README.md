@@ -10,7 +10,7 @@
 | 4. | Time Series Analysis in Python | LO3 |
 | 5. | Implementation of ARIMA model in python | LO3 |
 | 6. | Implementation of Time series Decomposition and ACF and PACF | LO3 |
-| 7. | Design Text Analytics Application on a given data set. | LO4 |
+| 7. | [Design Text Analytics Application on a given data set](https://github.com/NeoZ666/DAV_exp/tree/main/EXP7) | LO4 |
 | 8. | Set Up a D3.js Environment, Select Elements in D3, Modify Elements in D3,Data Loading in D3 | LO5, LO6 |
 | 9. | Create a World Map with d3.js |LO5, LO6 | 
 | 10. | Event Handling with D3.js | LO5, LO6 |
